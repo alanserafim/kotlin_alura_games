@@ -17,5 +17,5 @@ Referências
 * [HTTPResponse](https://docs.oracle.com/en/java/javase/17/docs/api/java.net.http/java/net/http/HttpResponse.html)
 * [Biblioteca de Consumo de API - Retrofit](https://square.github.io/retrofit/)
 * [Biblioteca de Consumo de API - OkHttp](https://square.github.io/okhttp/)
-* []()
-* []()
+* [Kotlin Koans](https://play.kotlinlang.org/koans/overview)
+* [Desserialização de Json com Gson](https://github.com/google/gson/blob/main/UserGuide.md)
