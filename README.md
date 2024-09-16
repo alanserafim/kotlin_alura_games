@@ -19,3 +19,4 @@ Referências
 * [Biblioteca de Consumo de API - OkHttp](https://square.github.io/okhttp/)
 * [Kotlin Koans](https://play.kotlinlang.org/koans/overview)
 * [Desserialização de Json com Gson](https://github.com/google/gson/blob/main/UserGuide.md)
+* [Data Classes](https://kotlinlang.org/docs/data-classes.html)
